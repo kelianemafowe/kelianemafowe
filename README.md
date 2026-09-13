@@ -2,7 +2,7 @@
 
 # Salut, moi c’est Keliane
 
-Je suis développeuse ,**data scientist*junior* passionné par le code,les données et les nouvelles technologies .  
+Je suis développeuse ,**data scientist *junior* passionné par le code,les données et les nouvelles technologies .  
 J’aime travailler avec **python**, **flask** et **streamlit**.---je  m'intéresse à l'analyse, exploration et traitement des données ainsi que le machine Learning.
 
 ##  Compétences
